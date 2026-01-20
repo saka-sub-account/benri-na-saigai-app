@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Stock Manager",
+  "description": "AI-powered rolling stock management. Seamlessly manages inventory, suggests recipes, and automates shopping lists for both daily life and emergencies.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
